@@ -1,0 +1,23 @@
+# Arquivos de ambiente
+.env
+
+# Banco de dados local
+doc_agent.db
+
+# Documentação arquivada
+docs.old/
+
+# Arquivos de cache do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Diretórios de ambiente virtual
+.venv/
+venv/
+ENV/
+env/
+
+# Arquivos de sistema operacional
+.DS_Store
+Thumbs.db
